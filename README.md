@@ -9,5 +9,5 @@ pewnym prawdopodobieństwem
 p = e^(Delta/T)
 
 Delta - różnica między rozwiązaniem aktualnym a sąsiadem, wartość ujemna (dla dodatniej sąsiad jest lepszy od r. akt.)
-T - temperatura - parametr regulujący prawdopodobieństwo. Z kolejnymi iteracjami powinien być coraz mniejszy. Dla T dążącego do 0 algorytm przekształca się w local search’a. Parametr T powinien być wybrany z uwzględnieniem
-wartości funkcji celu występujących w danej instancji.
+
+T - temperatura - parametr regulujący prawdopodobieństwo. Z kolejnymi iteracjami powinien być coraz mniejszy. Dla T dążącego do 0 algorytm przekształca się w local search’a. Parametr T powinien być wybrany z uwzględnieniem wartości funkcji celu występujących w danej instancji.
