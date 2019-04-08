@@ -1,0 +1,28 @@
+C:\Users\mrata\OneDrive\Desktop\OK\OK-consola\OK-consola\bin\Debug\OK-consola.exe.config
+C:\Users\mrata\OneDrive\Desktop\OK\OK-consola\OK-consola\bin\Debug\OK-consola.exe
+C:\Users\mrata\OneDrive\Desktop\OK\OK-consola\OK-consola\bin\Debug\OK-consola.pdb
+C:\Users\mrata\OneDrive\Desktop\OK\OK-consola\OK-consola\obj\Debug\OK-consola.csprojResolveAssemblyReference.cache
+C:\Users\mrata\OneDrive\Desktop\OK\OK-consola\OK-consola\obj\Debug\OK-consola.csproj.CoreCompileInputs.cache
+C:\Users\mrata\OneDrive\Desktop\OK\OK-consola\OK-consola\obj\Debug\OK-consola.exe
+C:\Users\mrata\OneDrive\Desktop\OK\OK-consola\OK-consola\obj\Debug\OK-consola.pdb
+C:\Users\mrata\OneDrive\Desktop\OK Local Search\OK-consola\OK-consola\bin\Debug\OK-consola.exe.config
+C:\Users\mrata\OneDrive\Desktop\OK Local Search\OK-consola\OK-consola\bin\Debug\OK-consola.exe
+C:\Users\mrata\OneDrive\Desktop\OK Local Search\OK-consola\OK-consola\bin\Debug\OK-consola.pdb
+C:\Users\mrata\OneDrive\Desktop\OK Local Search\OK-consola\OK-consola\obj\Debug\OK-consola.csprojResolveAssemblyReference.cache
+C:\Users\mrata\OneDrive\Desktop\OK Local Search\OK-consola\OK-consola\obj\Debug\OK-consola.csproj.CoreCompileInputs.cache
+C:\Users\mrata\OneDrive\Desktop\OK Local Search\OK-consola\OK-consola\obj\Debug\OK-consola.exe
+C:\Users\mrata\OneDrive\Desktop\OK Local Search\OK-consola\OK-consola\obj\Debug\OK-consola.pdb
+C:\Users\mrata\OneDrive\Desktop\Optymalizacja Kombinatoryczna\OK Local Search\OK-consola\OK-consola\bin\Debug\OK-consola.exe.config
+C:\Users\mrata\OneDrive\Desktop\Optymalizacja Kombinatoryczna\OK Local Search\OK-consola\OK-consola\bin\Debug\OK-consola.exe
+C:\Users\mrata\OneDrive\Desktop\Optymalizacja Kombinatoryczna\OK Local Search\OK-consola\OK-consola\bin\Debug\OK-consola.pdb
+C:\Users\mrata\OneDrive\Desktop\Optymalizacja Kombinatoryczna\OK Local Search\OK-consola\OK-consola\obj\Debug\OK-consola.csprojResolveAssemblyReference.cache
+C:\Users\mrata\OneDrive\Desktop\Optymalizacja Kombinatoryczna\OK Local Search\OK-consola\OK-consola\obj\Debug\OK-consola.csproj.CoreCompileInputs.cache
+C:\Users\mrata\OneDrive\Desktop\Optymalizacja Kombinatoryczna\OK Local Search\OK-consola\OK-consola\obj\Debug\OK-consola.exe
+C:\Users\mrata\OneDrive\Desktop\Optymalizacja Kombinatoryczna\OK Local Search\OK-consola\OK-consola\obj\Debug\OK-consola.pdb
+C:\Users\mrata\OneDrive\Desktop\Semestr III\4. Optymalizacja kombinatoryczna\Optymalizacja Kombinatoryczna\OK Local Search\OK-consola\OK-consola\bin\Debug\OK-consola.exe.config
+C:\Users\mrata\OneDrive\Desktop\Semestr III\4. Optymalizacja kombinatoryczna\Optymalizacja Kombinatoryczna\OK Local Search\OK-consola\OK-consola\bin\Debug\OK-consola.exe
+C:\Users\mrata\OneDrive\Desktop\Semestr III\4. Optymalizacja kombinatoryczna\Optymalizacja Kombinatoryczna\OK Local Search\OK-consola\OK-consola\bin\Debug\OK-consola.pdb
+C:\Users\mrata\OneDrive\Desktop\Semestr III\4. Optymalizacja kombinatoryczna\Optymalizacja Kombinatoryczna\OK Local Search\OK-consola\OK-consola\obj\Debug\OK-consola.csprojResolveAssemblyReference.cache
+C:\Users\mrata\OneDrive\Desktop\Semestr III\4. Optymalizacja kombinatoryczna\Optymalizacja Kombinatoryczna\OK Local Search\OK-consola\OK-consola\obj\Debug\OK-consola.csproj.CoreCompileInputs.cache
+C:\Users\mrata\OneDrive\Desktop\Semestr III\4. Optymalizacja kombinatoryczna\Optymalizacja Kombinatoryczna\OK Local Search\OK-consola\OK-consola\obj\Debug\OK-consola.exe
+C:\Users\mrata\OneDrive\Desktop\Semestr III\4. Optymalizacja kombinatoryczna\Optymalizacja Kombinatoryczna\OK Local Search\OK-consola\OK-consola\obj\Debug\OK-consola.pdb
